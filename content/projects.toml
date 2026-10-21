@@ -1,0 +1,60 @@
+type = "card"
+title = "Projects"
+description = "Selected research and engineering projects."
+
+[[items]]
+title = "Talk to TR & The Living Library"
+subtitle = "Real-time embodied conversational AI · Theodore Roosevelt Presidential Library"
+date = "2025 – 2026"
+content = """
+A continuously operating museum exhibit where visitors talk face-to-face with a full-scale digital human of Theodore Roosevelt, grounded in a governed corpus of ~300,000 archival records.
+
+- **Problem:** turning fragmented digital archives into a conversational experience that stays faithful to the historical record.
+- **Approach:** OCR and metadata enrichment with curator review, hybrid dense/semantic retrieval, agentic reasoning, end-to-end streaming, and a digital-human interface built for unattended operation.
+- **My role:** first author of the paper; contributed to agent orchestration, conversation and session management, real-time experience, and system reliability.
+
+[Paper](https://arxiv.org/abs/2609.09368) · [Code](https://github.com/microsoft/TRPL)
+"""
+tags = ["Agentic AI", "RAG", "Digital Humans", "Cultural Heritage"]
+link = "https://arxiv.org/abs/2609.09368"
+
+[[items]]
+title = "Deepfake & AI-Generated Media Detection"
+subtitle = "Media authenticity research · Microsoft AI for Good Lab"
+date = "2025 – 2026"
+content = """
+Research on how well machines and people can tell real media from AI-generated or manipulated content.
+
+- **Benchmark:** contributed to the Microsoft-Northwestern-WITNESS benchmark, 50,000+ images, videos, and audio files including expert-annotated real-world cases from journalists and human rights defenders (IEEE Intelligent Systems, 2026).
+- **Human study:** analyzed ~287,000 judgments from 12,500+ participants, finding people identify AI-generated images correctly only 62% of the time.
+
+[MNW Benchmark](https://doi.org/10.1109/MIS.2026.3668398) · [Human Study](https://arxiv.org/abs/2507.18640)
+"""
+tags = ["Deepfake Detection", "Benchmarks", "Multimodal", "Responsible AI"]
+
+[[items]]
+title = "Vision-Language Models for Ecology"
+subtitle = "Multimodal AI for biodiversity monitoring"
+date = "2025 – 2026"
+content = """
+Adapting vision-language models to ecological imagery for wildlife identification and image description, to help researchers make sense of large volumes of field data.
+
+- **Focus:** domain adaptation and fine-tuning of open VLMs, multimodal evaluation, and efficient GPU training.
+- **Publication:** co-author of a perspective on multimodal language models for biodiversity research and conservation (Methods in Ecology and Evolution, 2025).
+
+[Paper](https://doi.org/10.1111/2041-210X.70120)
+"""
+tags = ["Vision-Language Models", "Fine-tuning", "Computer Vision", "Ecology"]
+
+[[items]]
+title = "3D Aorta Segmentation from CT"
+subtitle = "Deep learning for cardiovascular imaging · University of Miami"
+date = "2022 – 2024"
+content = """
+Graduate research on reconstructing human aorta geometry from CT images, a prerequisite for machine-learning-assisted diagnosis of diseases such as thoracic aortic aneurysm.
+
+- **Study:** compared 2D and 3D U-Net segmentation on aortas with morphologically diverse anatomy; 3D U-Net avoids the fragmented walls produced slice-by-slice, but still shows large HD95 errors on some cases, motivating more advanced architectures.
+
+[Preprint](https://doi.org/10.1101/2024.10.02.616348)
+"""
+tags = ["Medical Imaging", "3D Segmentation", "U-Net", "Cardiovascular"]

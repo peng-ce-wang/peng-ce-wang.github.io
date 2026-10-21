@@ -3,9 +3,12 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Multimodal AI & Vision-Language Models",
+  "Agentic AI & Retrieval-Augmented Systems",
+  "Embodied & Interactive AI",
+  "Media Authenticity & Deepfake Detection",
+  "Medical Image Analysis",
+  "AI for Social Impact"
 ]
 
 [[sections]]
@@ -26,4 +29,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-

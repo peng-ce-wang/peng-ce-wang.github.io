@@ -1,26 +1,20 @@
-## Education
-
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
-
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
-
 ## Experience
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Microsoft** — Applied Scientist
+*2026 – Present*
+- Multimodal AI, agentic systems, and AI for Good research and engineering.
 
-## Skills
+**Microsoft** — AI research & engineering
+- Talk to TR / The Living Library, deepfake detection research, and vision-language models for ecology.
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+**Inspur USA** — Data Engineer
 
-## Awards & Honors
+## Education
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+**University of Miami** — Electrical and Computer Engineering
+*2022 – 2024*
+- Research: deep-learning 3D segmentation of the human aorta from CT images.
+
+## Publications
+
+See the [Publications](/publications) page.
