@@ -1,15 +1,19 @@
 [[news]]
 date = "2026-09"
-content = "Released The Living Library, our paper on turning the Theodore Roosevelt Presidential Library archive into a conversational knowledge system and the Talk to TR exhibit."
+content = "Released [The Living Library](https://arxiv.org/abs/2609.09368), our paper on turning the Theodore Roosevelt Presidential Library archive into a conversational knowledge system and the Talk to TR exhibit."
+
+[[news]]
+date = "2026-07"
+content = "Talk to TR opened at the Theodore Roosevelt Presidential Library in Medora, North Dakota. President Trump, the library's first official visitor, spoke with the AI Roosevelt during the opening ([AP News](https://www.mprnews.org/story/2026/07/02/trump-visits-newly-built-theodore-roosevelt-presidential-library-in-north-dakotas-badlands))."
 
 [[news]]
 date = "2026-03"
-content = "The Microsoft-Northwestern-WITNESS Benchmark for Deepfake Detection published in IEEE Intelligent Systems."
+content = "[The Microsoft-Northwestern-WITNESS Benchmark for Deepfake Detection](https://doi.org/10.1109/MIS.2026.3668398) published in IEEE Intelligent Systems."
 
 [[news]]
 date = "2025-08"
-content = "New Frontiers in AI for Biodiversity Research and Conservation with Multimodal Language Models published in Methods in Ecology and Evolution."
+content = "[New Frontiers in AI for Biodiversity Research and Conservation with Multimodal Language Models](https://doi.org/10.1111/2041-210X.70120) published in Methods in Ecology and Evolution."
 
 [[news]]
 date = "2025-07"
-content = "Released How Good Are Humans at Detecting AI-Generated Images? on arXiv."
+content = "Released [How Good Are Humans at Detecting AI-Generated Images?](https://arxiv.org/abs/2507.18640) on arXiv."

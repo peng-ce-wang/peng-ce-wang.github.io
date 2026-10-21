@@ -1,15 +1,19 @@
 [[news]]
 date = "2026-09"
-content = "发布论文 The Living Library，介绍如何将西奥多·罗斯福总统图书馆的档案转化为对话式知识系统，以及 Talk to TR 展项。"
+content = "发布论文 [The Living Library](https://arxiv.org/abs/2609.09368)，介绍如何将西奥多·罗斯福总统图书馆的档案转化为对话式知识系统，以及 Talk to TR 展项。"
+
+[[news]]
+date = "2026-07"
+content = "Talk to TR 随西奥多·罗斯福总统图书馆在北达科他州梅多拉开馆。图书馆首位正式访客特朗普总统在开馆时与 AI 罗斯福进行了对话（[美联社报道](https://www.mprnews.org/story/2026/07/02/trump-visits-newly-built-theodore-roosevelt-presidential-library-in-north-dakotas-badlands)）。"
 
 [[news]]
 date = "2026-03"
-content = "The Microsoft-Northwestern-WITNESS Benchmark for Deepfake Detection 发表于 IEEE Intelligent Systems。"
+content = "[The Microsoft-Northwestern-WITNESS Benchmark for Deepfake Detection](https://doi.org/10.1109/MIS.2026.3668398) 发表于 IEEE Intelligent Systems。"
 
 [[news]]
 date = "2025-08"
-content = "New Frontiers in AI for Biodiversity Research and Conservation with Multimodal Language Models 发表于 Methods in Ecology and Evolution。"
+content = "[New Frontiers in AI for Biodiversity Research and Conservation with Multimodal Language Models](https://doi.org/10.1111/2041-210X.70120) 发表于 Methods in Ecology and Evolution。"
 
 [[news]]
 date = "2025-07"
-content = "论文 How Good Are Humans at Detecting AI-Generated Images? 发布于 arXiv。"
+content = "论文 [How Good Are Humans at Detecting AI-Generated Images?](https://arxiv.org/abs/2507.18640) 发布于 arXiv。"
