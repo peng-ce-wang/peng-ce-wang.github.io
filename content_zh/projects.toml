@@ -13,10 +13,13 @@ content = """
 - **方法：** OCR 与元数据增强加馆员审核、稠密/语义混合检索、智能体推理、端到端流式响应，以及面向无人值守运行的数字人交互。
 - **我的工作：** 论文第一作者；参与智能体编排、对话与会话管理、实时体验以及系统可靠性建设。
 
-[论文](https://arxiv.org/abs/2609.09368) · [代码](https://github.com/microsoft/TRPL)
+[论文](https://arxiv.org/abs/2609.09368) · [代码](https://github.com/microsoft/TRPL) · [微软新闻](https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/)
+
+*图片：西奥多·罗斯福总统图书馆提供，来自[微软新闻](https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/)。*
 """
 tags = ["智能体", "检索增强生成", "数字人", "文化遗产"]
 link = "https://arxiv.org/abs/2609.09368"
+image = "/projects/talk-to-tr.jpg"
 
 [[items]]
 title = "深度伪造与 AI 生成内容检测"

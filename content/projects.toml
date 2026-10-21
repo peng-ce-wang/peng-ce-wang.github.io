@@ -13,10 +13,13 @@ A continuously operating museum exhibit where visitors talk face-to-face with a 
 - **Approach:** OCR and metadata enrichment with curator review, hybrid dense/semantic retrieval, agentic reasoning, end-to-end streaming, and a digital-human interface built for unattended operation.
 - **My role:** first author of the paper; contributed to agent orchestration, conversation and session management, real-time experience, and system reliability.
 
-[Paper](https://arxiv.org/abs/2609.09368) · [Code](https://github.com/microsoft/TRPL)
+[Paper](https://arxiv.org/abs/2609.09368) · [Code](https://github.com/microsoft/TRPL) · [Microsoft News](https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/)
+
+*Photo: courtesy of Theodore Roosevelt Presidential Library, via [Microsoft](https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/).*
 """
 tags = ["Agentic AI", "RAG", "Digital Humans", "Cultural Heritage"]
 link = "https://arxiv.org/abs/2609.09368"
+image = "/projects/talk-to-tr.jpg"
 
 [[items]]
 title = "Deepfake & AI-Generated Media Detection"
